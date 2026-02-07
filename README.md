@@ -24,6 +24,7 @@ But I also wanted to try out hardware development and see if I could build my ow
 - This CPU is **not** production ready; it’s mostly a base start for anyone who wants to build their own CPU.
 - The project is open source under the MIT License, so you can edit it and make it better.
 - If you find any bugs or have suggestions, please open an issue.
+- There is an OpenCPU_8B file that is a WIP 8 bit version of OpenCPU
 
 ## How it works
 - ALU outputs feed into 1-bit registers (R0–R3) that store the results.
